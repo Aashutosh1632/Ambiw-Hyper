@@ -69,67 +69,156 @@
     "category_grid_Pph8aT": {
       "type": "category-grid",
       "blocks": {
-        "category_cXn83B": {
+        "category_EiPrHY": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/New_Arrivals_3.png",
+            "mobile_image": "shopify://shop_images/New_Arrivals_3.png",
+            "title": "New Arrivals",
             "title_color": "",
-            "collection": "",
+            "collection": "just-arrived",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
         },
-        "category_8M7RGr": {
+        "category_UnJCL8": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/summer_collection_1_d2253e3a-180a-496d-8ec9-c77d75c2acfd.png",
+            "mobile_image": "shopify://shop_images/summer_collection_1_d2253e3a-180a-496d-8ec9-c77d75c2acfd.png",
+            "title": "Summer",
             "title_color": "",
-            "collection": "",
+            "collection": "summer-essential-products",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
         },
-        "category_rV3QHT": {
+        "category_eNbVi3": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/Best_selling_1_1_1.png",
+            "mobile_image": "shopify://shop_images/Best_selling_1_1_1.png",
+            "title": "Deal of the Day",
             "title_color": "",
-            "collection": "",
+            "collection": "deal-of-the-day",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
         },
-        "category_DB4pmE": {
+        "category_BwFH7C": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/Kitchen_8.png",
+            "mobile_image": "shopify://shop_images/Kitchen_8.png",
+            "title": "Kitchen",
             "title_color": "",
-            "collection": "",
+            "collection": "kitchen",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
         },
-        "category_jT3QPr": {
+        "category_VmydXJ": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/Car_Motorbike_1.png",
+            "mobile_image": "shopify://shop_images/Car_Motorbike_1.png",
+            "title": "Car & Motorbike",
             "title_color": "",
-            "collection": "",
+            "collection": "car-motorbike",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
         },
-        "category_XK9DP7": {
+        "category_ge4kkU": {
           "type": "category",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/Gardening_2_8f3b2f05-2748-48a1-b787-1466e0c4a47d.png",
+            "mobile_image": "shopify://shop_images/Gardening_2_8f3b2f05-2748-48a1-b787-1466e0c4a47d.png",
+            "title": "Gardening",
             "title_color": "",
-            "collection": "",
+            "collection": "gardening",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_d9cxtV": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Jewellery_3f9cddb3-7ae9-4065-a51e-b09b2057d8f7.png",
+            "mobile_image": "shopify://shop_images/Jewellery_3f9cddb3-7ae9-4065-a51e-b09b2057d8f7.png",
+            "title": "Jewellery",
+            "title_color": "",
+            "collection": "jewellery",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_BQF69D": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Gifts_1_bc64900b-8d29-4c32-8f47-c4ec19ac1a77.png",
+            "title": "Gifts",
+            "title_color": "",
+            "collection": "gift",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_rgeKGG": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Electronics_2_1.png",
+            "mobile_image": "shopify://shop_images/Electronics_2_1.png",
+            "title": "Electronics",
+            "title_color": "",
+            "collection": "electronics-t",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_FPirkw": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Home_Essentials_4.png",
+            "mobile_image": "shopify://shop_images/Home_Essentials_4.png",
+            "title": "Home Essentials",
+            "title_color": "",
+            "collection": "home-essentials",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_qA3GBW": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Kids_Baby_2.png",
+            "mobile_image": "shopify://shop_images/Kids_Baby_2.png",
+            "title": "Kids & Baby",
+            "title_color": "",
+            "collection": "kids-baby-essentials",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_FmnPkA": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Health_Beauty_2.png",
+            "mobile_image": "shopify://shop_images/Health_Beauty_2.png",
+            "title": "Health & Beauty",
+            "title_color": "",
+            "collection": "beauty-health-grocery",
             "link": "",
             "hide_on_mobile": false,
             "hide_on_desktop": false
@@ -137,12 +226,18 @@
         }
       },
       "block_order": [
-        "category_cXn83B",
-        "category_8M7RGr",
-        "category_rV3QHT",
-        "category_DB4pmE",
-        "category_jT3QPr",
-        "category_XK9DP7"
+        "category_EiPrHY",
+        "category_UnJCL8",
+        "category_eNbVi3",
+        "category_BwFH7C",
+        "category_VmydXJ",
+        "category_ge4kkU",
+        "category_d9cxtV",
+        "category_BQF69D",
+        "category_rgeKGG",
+        "category_FPirkw",
+        "category_qA3GBW",
+        "category_FmnPkA"
       ],
       "name": "Category Grid",
       "settings": {
@@ -152,7 +247,7 @@
         "custom_class": "",
         "columns_desktop": 6,
         "columns_mobile": "4",
-        "eager_first_row": false,
+        "eager_first_row": true,
         "padding_top": 24,
         "padding_bottom": 24
       }
