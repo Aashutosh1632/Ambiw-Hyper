@@ -66,231 +66,95 @@
         "order_no": "4"
       }
     },
-    "collection_list_slider_6qbNfj": {
-      "type": "collection-list-slider",
+    "category_grid_Pph8aT": {
+      "type": "category-grid",
       "blocks": {
-        "featured_collection_L9N3Tg": {
-          "type": "featured_collection",
+        "category_cXn83B": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Sale Items"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         },
-        "featured_collection_gxdACj": {
-          "type": "featured_collection",
+        "category_8M7RGr": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Press Tables"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         },
-        "featured_collection_jQXtir": {
-          "type": "featured_collection",
+        "category_rV3QHT": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Lighting"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         },
-        "featured_collection_4H9LzM": {
-          "type": "featured_collection",
+        "category_DB4pmE": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Spoke Sofa"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         },
-        "featured_collection_jMA9xm": {
-          "type": "featured_collection",
+        "category_jT3QPr": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Storage"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         },
-        "featured_collection_J6hxH9": {
-          "type": "featured_collection",
+        "category_XK9DP7": {
+          "type": "category",
           "settings": {
+            "title": "",
+            "title_color": "",
             "collection": "",
-            "title": "Turn Chairs"
-          }
-        },
-        "featured_collection_HwzPfD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Chairs"
-          }
-        },
-        "featured_collection_GW3kAL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Curve Coat"
-          }
-        },
-        "featured_collection_J6V8fx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Bend Chairs"
-          }
-        },
-        "featured_collection_NkFYeg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Accessories"
-          }
-        },
-        "featured_collection_eBphH3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Tables"
-          }
-        },
-        "featured_collection_mFCdUY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Bar Chairs"
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
           }
         }
       },
       "block_order": [
-        "featured_collection_L9N3Tg",
-        "featured_collection_gxdACj",
-        "featured_collection_jQXtir",
-        "featured_collection_4H9LzM",
-        "featured_collection_jMA9xm",
-        "featured_collection_J6hxH9",
-        "featured_collection_HwzPfD",
-        "featured_collection_GW3kAL",
-        "featured_collection_J6V8fx",
-        "featured_collection_NkFYeg",
-        "featured_collection_eBphH3",
-        "featured_collection_mFCdUY"
+        "category_cXn83B",
+        "category_8M7RGr",
+        "category_rV3QHT",
+        "category_DB4pmE",
+        "category_jT3QPr",
+        "category_XK9DP7"
       ],
-      "custom_css": [],
+      "name": "Category Grid",
       "settings": {
-        "container": "fixed",
-        "color_scheme": "",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "",
-        "highlight_style": "none",
-        "highlight_font_style": "italic",
-        "highlight_style_color": "",
-        "highlight_text_color": "",
+        "title": "Top Categories",
         "heading_size": "h1",
-        "description": "",
-        "text_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--underline",
-        "button_icon": "none",
-        "card_color_scheme": "",
-        "card_style": "standard",
-        "card_heading_size": "text-base",
-        "card_image_ratio": "1/1",
-        "card_image_width": "medium",
-        "card_image_padding": "none",
-        "rounded_card_image": true,
-        "mobile_layout": "vertical",
-        "carousel_item_size": "auto",
+        "title_color": "",
+        "custom_class": "",
         "columns_desktop": 6,
-        "carousel_control_color_scheme": "",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "slideshow_q3U4Jn": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_JhU8hg": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "scheme-inverse",
-            "image_overlay_opacity": 30,
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "subheading": "Cotton Made",
-            "title": "New Season July",
-            "highlight_style": "none",
-            "highlight_font_style": "italic",
-            "highlight_style_color": "",
-            "highlight_text_color": "",
-            "heading_size": "hd1",
-            "description": "",
-            "description_size": "text-base",
-            "button_label": "Shop collection",
-            "button_link": "",
-            "button_style": "btn--primary",
-            "button_icon": "none",
-            "enable_preload_image": true
-          }
-        },
-        "slide_U9bPyj": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "scheme-inverse",
-            "image_overlay_opacity": 30,
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "subheading": "Modern Elegance",
-            "title": "Spoke Sofa",
-            "highlight_style": "none",
-            "highlight_font_style": "italic",
-            "highlight_style_color": "",
-            "highlight_text_color": "",
-            "heading_size": "hd1",
-            "description": "",
-            "description_size": "text-base",
-            "button_label": "Shop collection",
-            "button_link": "",
-            "button_style": "btn--primary",
-            "button_icon": "none",
-            "enable_preload_image": false
-          }
-        },
-        "slide_cQ6eF8": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "scheme-inverse",
-            "image_overlay_opacity": 30,
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "subheading": "Contemporary Grace",
-            "title": "Dining & Kitchen",
-            "highlight_style": "none",
-            "highlight_font_style": "italic",
-            "highlight_style_color": "",
-            "highlight_text_color": "",
-            "heading_size": "hd1",
-            "description": "",
-            "description_size": "text-base",
-            "button_label": "Shop collection",
-            "button_link": "",
-            "button_style": "btn--primary",
-            "button_icon": "none",
-            "enable_preload_image": false
-          }
-        }
-      },
-      "block_order": [
-        "slide_JhU8hg",
-        "slide_U9bPyj",
-        "slide_cQ6eF8"
-      ],
-      "settings": {
-        "container": "fixed",
-        "slide_height": "large",
-        "show_controls": true,
-        "autoplay": true,
-        "autoplay_delay": 6,
-        "show_text_below": false,
-        "text_alignment_mobile": "center",
-        "accessibility_info": "Slideshow about our brand"
+        "columns_mobile": "4",
+        "eager_first_row": false,
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "featured_collection_bdaamt": {
@@ -357,6 +221,7 @@
         "collection_ydJPzX",
         "collection_E83rKg"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "container": "fixed",
@@ -435,6 +300,7 @@
         "text_QWap4d",
         "code_FWe4HN"
       ],
+      "disabled": true,
       "settings": {
         "container": "fixed",
         "color_scheme": "scheme-3",
@@ -543,6 +409,7 @@
         "image_card_with_product_3khACH",
         "image_card_with_product_dMnGc4"
       ],
+      "disabled": true,
       "settings": {
         "container": "fixed",
         "color_scheme": "",
@@ -670,6 +537,7 @@
         "featured_collection_rkynNN",
         "featured_collection_8t9tJr"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "container": "fixed",
@@ -753,6 +621,7 @@
         "collection_qxfNFe",
         "collection_j3wCpz"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 1280px) {collection-tabs {padding-inline: 5rem; }}"
       ],
@@ -816,6 +685,7 @@
         "product_wByADN",
         "product_8UUtBe"
       ],
+      "disabled": true,
       "custom_css": [
         ".testimonial__content {max-width: 46rem;}"
       ],
@@ -915,6 +785,7 @@
         "lookbook_card_8BaXc6",
         "lookbook_card_DtRhzC"
       ],
+      "disabled": true,
       "settings": {
         "container": "fixed",
         "color_scheme": "",
@@ -1948,8 +1819,7 @@
   },
   "order": [
     "featured_cards_carousel_ibEiUR",
-    "collection_list_slider_6qbNfj",
-    "slideshow_q3U4Jn",
+    "category_grid_Pph8aT",
     "featured_collection_bdaamt",
     "promotion_banner_VCkmzP",
     "custom_content_HPgFTK",
