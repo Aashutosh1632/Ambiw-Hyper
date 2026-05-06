@@ -35,31 +35,6 @@
         "show_on_mobile": false
       }
     },
-    "header": {
-      "type": "header",
-      "disabled": true,
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "scheme-1",
-        "menu": "main-menu",
-        "menu_mobile": "",
-        "header_layout": "logo-left",
-        "menu_trigger": "hover",
-        "sticky_header": "always",
-        "enable_collapse_on_scroll": true,
-        "show_sperator_line": true,
-        "customer_account_style": "icon-with-text",
-        "show_social_media_icons": true,
-        "enable_language_selector": false,
-        "enable_country_selector": true,
-        "header_top_padding_top": 20,
-        "header_top_padding_bottom": 20,
-        "navigation_color_scheme": "",
-        "navigation_content_alignment": "start",
-        "navigation_padding_top": 0,
-        "navigation_padding_bottom": 12
-      }
-    },
     "custom_header_qLXHqc": {
       "type": "custom-header",
       "name": "Custom header",
@@ -105,7 +80,6 @@
   },
   "order": [
     "utility_bar_tRBUTx",
-    "header",
     "custom_header_qLXHqc",
     "custom_nav_NETTig"
   ]
