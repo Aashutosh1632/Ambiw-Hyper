@@ -246,7 +246,7 @@
         "title_color": "",
         "custom_class": "",
         "columns_desktop": 6,
-        "columns_mobile": "4",
+        "columns_mobile": "3",
         "enable_mobile_slider": true,
         "eager_first_row": true,
         "padding_top": 24,
