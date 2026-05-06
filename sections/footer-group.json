@@ -139,28 +139,28 @@
           "type": "menu_column",
           "settings": {
             "heading": "Quick Links",
-            "menu": "footer"
+            "menu": "quick-links"
           }
         },
         "menu_column_WE9M9C": {
           "type": "menu_column",
           "settings": {
             "heading": "Policies",
-            "menu": "footer"
+            "menu": "policy-pages"
           }
         },
         "menu_column_brXEER": {
           "type": "menu_column",
           "settings": {
             "heading": "Other Links",
-            "menu": "footer"
+            "menu": "other-links"
           }
         },
         "menu_column_Nhqn3y": {
           "type": "menu_column",
           "settings": {
             "heading": "Drop Shipping with DeoDap",
-            "menu": "footer"
+            "menu": "drop-shipping-with-deodap"
           }
         },
         "social_icon_mLpJUV": {
@@ -197,6 +197,51 @@
             "platform": "whatsapp",
             "url": ""
           }
+        },
+        "trust_seal_fF6mrn": {
+          "type": "trust_seal",
+          "settings": {
+            "image": "shopify://shop_images/image_11_1.png",
+            "url": "",
+            "open_new_tab": false,
+            "alt": ""
+          }
+        },
+        "trust_seal_8QdU4M": {
+          "type": "trust_seal",
+          "settings": {
+            "image": "shopify://shop_images/trusted-seller_image_ef9acedc-05b0-4ec9-ad80-aac0a48c195c.svg",
+            "url": "",
+            "open_new_tab": false,
+            "alt": ""
+          }
+        },
+        "trust_seal_MVzVFh": {
+          "type": "trust_seal",
+          "settings": {
+            "image": "shopify://shop_images/google_Reviews.png",
+            "url": "",
+            "open_new_tab": false,
+            "alt": ""
+          }
+        },
+        "trust_seal_3VheJe": {
+          "type": "trust_seal",
+          "settings": {
+            "image": "shopify://shop_images/muthut_rating.png",
+            "url": "",
+            "open_new_tab": false,
+            "alt": ""
+          }
+        },
+        "trust_seal_eVeeEq": {
+          "type": "trust_seal",
+          "settings": {
+            "image": "shopify://shop_images/amazon_rating.png",
+            "url": "",
+            "open_new_tab": false,
+            "alt": ""
+          }
         }
       },
       "block_order": [
@@ -208,10 +253,16 @@
         "social_icon_yRyaif",
         "social_icon_DNtBKD",
         "social_icon_QmbitN",
-        "social_icon_HizCPN"
+        "social_icon_HizCPN",
+        "trust_seal_fF6mrn",
+        "trust_seal_8QdU4M",
+        "trust_seal_MVzVFh",
+        "trust_seal_3VheJe",
+        "trust_seal_eVeeEq"
       ],
       "name": "Custom footer",
       "settings": {
+        "logo": "shopify://shop_images/logo_w_11zon.webp",
         "logo_width": 130,
         "tagline": "Spend Less, Get Best",
         "gp_link": "",
@@ -219,8 +270,8 @@
         "app_links_new_tab": true,
         "app_badge_height": 36,
         "social_label": "FOLLOW US :",
-        "company_info": "<p>Your Company Name</p><p>GST: 00AAAAA0000A0AA</p><p>CIN: U00000XX0000XXX000000</p>",
-        "copyright": "<p>Copyright &copy; 2026 DeoDap.</p>",
+        "company_info": "<p>Dabster International Private Limited</p><p>GST: 24AAHCD5265C1ZX</p><p>CIN: U51909GJ2019PTC110919</p>",
+        "copyright": "<p>Copyright © 2026 DeoDap.</p>",
         "trust_seal_height": 56,
         "background_color": "#0d1627",
         "text_color": "#ffffff",
