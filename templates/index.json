@@ -246,8 +246,8 @@
         "title_color": "",
         "custom_class": "",
         "columns_desktop": 6,
-        "columns_mobile": "3",
-        "enable_mobile_slider": true,
+        "columns_mobile": "4",
+        "enable_mobile_slider": false,
         "eager_first_row": true,
         "padding_top": 24,
         "padding_bottom": 24
