@@ -376,6 +376,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981896_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981885_2_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
