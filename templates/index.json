@@ -272,10 +272,11 @@
         "category_eUALNW": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981887_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-29",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -283,10 +284,11 @@
         "category_xDUFPi": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981888_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-49",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -294,10 +296,11 @@
         "category_TtQGpp": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981890_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-149",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -305,10 +308,11 @@
         "category_T6MmpX": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981891_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-249",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -411,7 +415,7 @@
         "heading_size": "h1",
         "title_color": "",
         "custom_class": "",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "columns_mobile": "4",
         "enable_mobile_slider": false,
         "eager_first_row": false,
