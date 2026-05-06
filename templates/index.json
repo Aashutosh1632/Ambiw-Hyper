@@ -273,6 +273,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981887_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981876_2.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -285,6 +286,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981888_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981877_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -297,6 +299,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981890_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981879_2_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -309,6 +312,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981891_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981880_2_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -320,10 +324,11 @@
         "category_jmGCYM": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981892_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-349",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -331,10 +336,11 @@
         "category_WC6rhV": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981893_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-449",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -342,10 +348,11 @@
         "category_t6dBpz": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981894_2.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-499",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -353,10 +360,11 @@
         "category_txrhHq": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981895_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
+            "link": "shopify://collections/under-999",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -364,32 +372,11 @@
         "category_8PWrhA": {
           "type": "category",
           "settings": {
+            "image": "shopify://shop_images/Group_14981896_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
-            "link": "",
-            "hide_on_mobile": false,
-            "hide_on_desktop": false
-          }
-        },
-        "category_9ackn3": {
-          "type": "category",
-          "settings": {
-            "title": "",
-            "title_color": "",
-            "collection": "",
-            "link": "",
-            "hide_on_mobile": false,
-            "hide_on_desktop": false
-          }
-        },
-        "category_ACD3db": {
-          "type": "category",
-          "settings": {
-            "title": "",
-            "title_color": "",
-            "collection": "",
-            "link": "",
+            "link": "shopify://collections/above-1000",
             "hide_on_mobile": false,
             "hide_on_desktop": false
           }
@@ -405,9 +392,7 @@
         "category_WC6rhV",
         "category_t6dBpz",
         "category_txrhHq",
-        "category_8PWrhA",
-        "category_9ackn3",
-        "category_ACD3db"
+        "category_8PWrhA"
       ],
       "name": "Category Grid",
       "settings": {
@@ -417,7 +402,7 @@
         "custom_class": "",
         "columns_desktop": 5,
         "columns_mobile": "4",
-        "enable_mobile_slider": false,
+        "enable_mobile_slider": true,
         "eager_first_row": false,
         "padding_top": 24,
         "padding_bottom": 24
