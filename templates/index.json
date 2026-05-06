@@ -325,6 +325,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981892_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981881_2_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -337,6 +338,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981893_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981882_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
@@ -353,7 +355,7 @@
             "title_color": "",
             "collection": "",
             "link": "shopify://collections/under-499",
-            "hide_on_mobile": false,
+            "hide_on_mobile": true,
             "hide_on_desktop": false
           }
         },
@@ -361,6 +363,7 @@
           "type": "category",
           "settings": {
             "image": "shopify://shop_images/Group_14981895_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981884_2_1.png",
             "title": "",
             "title_color": "",
             "collection": "",
