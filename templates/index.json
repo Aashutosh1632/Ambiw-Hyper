@@ -252,10 +252,177 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "category_grid_DFhA6n": {
+      "type": "category-grid",
+      "blocks": {
+        "category_phMJhU": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/Group_14981898_1.png",
+            "mobile_image": "shopify://shop_images/Group_14981897_1.png",
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "shopify://collections/under-9",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_eUALNW": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_xDUFPi": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_TtQGpp": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_T6MmpX": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_jmGCYM": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_WC6rhV": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_t6dBpz": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_txrhHq": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_8PWrhA": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_9ackn3": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        },
+        "category_ACD3db": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "collection": "",
+            "link": "",
+            "hide_on_mobile": false,
+            "hide_on_desktop": false
+          }
+        }
+      },
+      "block_order": [
+        "category_phMJhU",
+        "category_eUALNW",
+        "category_xDUFPi",
+        "category_TtQGpp",
+        "category_T6MmpX",
+        "category_jmGCYM",
+        "category_WC6rhV",
+        "category_t6dBpz",
+        "category_txrhHq",
+        "category_8PWrhA",
+        "category_9ackn3",
+        "category_ACD3db"
+      ],
+      "name": "Category Grid",
+      "settings": {
+        "title": "Explore Our Range",
+        "heading_size": "h1",
+        "title_color": "",
+        "custom_class": "",
+        "columns_desktop": 6,
+        "columns_mobile": "4",
+        "enable_mobile_slider": false,
+        "eager_first_row": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
     }
   },
   "order": [
     "featured_cards_carousel_ibEiUR",
-    "category_grid_Pph8aT"
+    "category_grid_Pph8aT",
+    "category_grid_DFhA6n"
   ]
 }
